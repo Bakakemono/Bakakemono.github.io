@@ -6,4 +6,4 @@ permalink: /Test/
 
 Vous pouvez me contacter à cette adresse.
 
-![Schematic of my work](https://www.vets4pets.com/siteassets/species/cat/kitten/tiny-kitten-in-field.jpg?w=585&scale=down "WLook at this cat!")
+![Schematic of my work](_data/gifs/starfox_64.gif "WLook at this cat!")
