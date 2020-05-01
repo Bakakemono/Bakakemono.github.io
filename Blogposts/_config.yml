@@ -18,7 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Blogposts
+title: Blog
+author: Robin Alves
 email: robin.alvesbarme@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hi :) Welcome to my blog where I want to post many blogposts
@@ -29,7 +30,7 @@ twitter_username: Bakakemonoo
 github_username:  Bakakemono
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: minima
 plugins:
   - jekyll-feed
 
