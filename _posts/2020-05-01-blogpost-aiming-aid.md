@@ -44,7 +44,7 @@ Before starting, a small reminder seems essential. The game that I am currently 
 <p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Blogpost-technique0.gif). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/Blogpost-technique0.gif "image_tooltip")
+![GIF of Starfox 64 gameplay](../_data/gifs/starfox_64.gif "starfox 64 gif")
 
 
 

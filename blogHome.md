@@ -1,5 +1,5 @@
 ---
 layout: blogpostsSummary
 title: "Blogposts"
-permalink: /Blogpost/
+permalink: /blogpost/
 ---
