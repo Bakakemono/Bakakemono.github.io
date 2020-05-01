@@ -40,6 +40,7 @@ Before starting, a small reminder seems essential. The game that I am currently 
 
 
 ![GIF of Starfox 64 gameplay](../_data/gifs/starfox_64.gif "starfox 64 gif")
+![Schematic of my work](https://github.com/Bakakemono/Bakakemono.github.io/blob/master/_data/gifs/starfox_64.gif "Look at this cat!")
 
 
 One of the main feature of this type of game is shooting elements that can be enemies or just some random objects of the decor while moving in front of a camera that is moving on a rail.
