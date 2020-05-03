@@ -6,17 +6,7 @@ date:   2020-05-01 01:00:00 +0200
 
 Before starting, a small reminder seems essential. The game that I am currently working on is a Star Fox Like. 
 
-![GIF of Starfox 64 gameplay](../data/gifs/starfox_64.gif "starfox 64 gif")
-
-
-![Gif with partial url new](assets/data/gifs/starfox_64.gif)
-
-![image with partial url new](assets/data/images/basicSetup.png)
-
-![image with partial url and come back](../data/images/basicSetup.png)
-
-![image with full url new](https://github.com/Bakakemono/Bakakemono.github.io/blob/master/assets/data/images/bestTarget.png)
-
+![GIF of Starfox 64 gameplay](/assets/data/gifs/starfox_64.gif "starfox 64 gif")
 
 One of the main feature of this type of game is shooting elements that can be enemies or just some random objects of the decor while moving in front of a camera that is moving on a rail.
 
