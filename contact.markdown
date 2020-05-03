@@ -6,9 +6,9 @@ permalink: /Test/
 
 Vous pouvez me contacter à cette adresse.
 
-![Image with only the path](_data/images/basicSetup.png)
+![Image with only the path]({{site.url}}/_data/images/basicSetup.png)
 
-![Image with the absolute path](https://github.com/Bakakemono/Bakakemono.github.io/blob/master/_data/images/addGizmoTarget.png)
+![Image with the absolute path]({{site.url}}/_data/images/addGizmoTarget.png)
 
 <img src="_data/images/basicSetup.png" width="300">
 
