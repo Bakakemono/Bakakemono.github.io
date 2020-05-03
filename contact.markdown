@@ -15,4 +15,4 @@ Vous pouvez me contacter à cette adresse.
 
 Je suis à jour.
 
-Nouvelle version 1.1
+Nouvelle version 1.2
