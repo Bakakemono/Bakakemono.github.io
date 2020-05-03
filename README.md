@@ -1,3 +1,5 @@
 # Bakakemono.github.io
 
-![](_data/images/desaxedTarget.png)
+![image](_data/images/desaxedTarget.png)
+
+![gif](_data/gifs/starfox_64.gif)
